@@ -20,6 +20,10 @@ body {
     height: 100vh;
 }
 
+html {
+    width: 100%;
+}
+
 header {
     display: flex;
     justify-content: center;
@@ -140,13 +144,32 @@ main {
     padding: 2rem 1rem 0 2rem;
 }
 
- ::-webkit-scrollbar {
+::-webkit-scrollbar {
     width: 0px;
 }
 
 .commercial-box {
     height: 168px;
-    border: 1px solid #a6a6a6af;
-    min-width: 320px;
-    flex-grow: 1;
+    border: 1px solid #a6a6a650;
+    display: flex;
+    justify-content: space-between;
+    flex: 1 1 280px;
+    padding: 0.8rem;
+    border-radius: 0.3rem;
+    gap: 0.3rem;
+}
+
+.commercial-box img {
+    border-radius: 0.3rem;
+}
+
+.commercial-box>div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.commercial-box p {
+    color: #acacac;
+    font-weight: 300;
 }

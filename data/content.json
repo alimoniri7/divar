@@ -1,352 +1,291 @@
 [{
-    "@type": "Product",
-    "category": "child-furniture",
     "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392208/gY9FkkAm.jpg",
-    "url": "https://divar.ir/v/gY9FkkAm",
-    "description": "تخت پارک ترک",
-    "name": "تخت پارک ترک مارک elele",
-    "offers": {
-        "@type": "Offer ",
-        "priceCurrency": "IRR",
-        "price": "63800000.0"
-    }
-}, {
-    "@type": "Product",
-    "category": "furniture",
-    "@context": "https://schema.org",
-    "url": "https://divar.ir/v/gY9lCww-",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392207/gY9lCww-.jpg",
-    "description": "مبلمان خانه تان را با فرشتان ست کنید",
-    "name": "مبل راحتی ال راحتی الراحتی",
-    "offers": {
-        "@type": "Offer ",
-        "priceCurrency": "IRR",
-        "price": "75750.0"
-    }
-}, {
-    "@type": "Car",
-    "vehicleTransmission": "automatic",
-    "color": "مشکی",
-    "brand": {
-        "@type": "Brand",
-        "name": "Toyota"
-    },
-    "@context": "https://schema.org",
-    "url": "https://divar.ir/v/gY9FUiVR",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392210/gY9FUiVR.jpg",
-    "name": "پرادو انرود ۲۰۱۰بیرنگ",
-    "model": "Toyota Prado 4door 6 cylinder-on road",
-    "productionDate": 1389,
-    "offers": {
-        "priceCurrency": "IRR",
-        "price": "0",
-        "@type": "Offer "
-    },
-    "category": "car",
-    "description": "ماشین دوبرگ سند  موتور گیربگس پلمپ بدون گریسی",
-    "mileageFromOdometer": {
-        "@type": "QuantitativeValue",
-        "value": 175000,
-        "unitCode": "KMT"
-    },
-    "knownVehicleDamages": "some-scratches"
-}, {
-    "category": "bag-shoes-belt",
-    "@context": "https://schema.org",
-    "url": "https://divar.ir/v/gY9FUa8U",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392205/gY9FUa8U.jpg",
-    "description": "کتونی درحداکبند اکومنت پوست ماری کرم سایز۴۲کم یاب بهترین گرون ترین مدل اکومنت کارتک اورجینال پوش میفهمه چیه این کتونی تخفیف جزئی داره معاوضه بازنجیرنقره سنگین ساعت جیشاک باتشکرازدیوار",
-    "name": "کتونی آدیداس اکومنت زدایکس اورجینال",
-    "offers": {
-        "priceCurrency": "IRR",
-        "price": "40000000.0",
-        "@type": "Offer "
-    },
-    "@type": "Product"
-}, {
-    "category": "toolbox",
-    "@context": "https://schema.org",
-    "url": "https://divar.ir/v/gY9BUXvR",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392206/gY9BUXvR.jpg",
-    "description": "فروش عمده قفل ساخت پاکستان ارسال از سیستان و بلوچستان",
-    "name": "فروش انواع قفل پاکستانی",
-    "offers": {
-        "priceCurrency": "IRR",
-        "price": "0",
-        "@type": "Offer "
-    },
-    "@type": "Product"
-}, {
-    "vehicleTransmission": "manual",
-    "brand": {
-        "@type": "Brand",
-        "name": "Pride"
-    },
-    "color": "سرمه‌ای",
-    "@context": "https://schema.org",
-    "url": "https://divar.ir/v/gY9F0ddD",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392207/gY9F0ddD.jpg",
-    "name": "پراید۸۸ سفارشی،فرمان تمام هیدرولیک",
-    "productionDate": 1388,
-    "offers": {
-        "@type": "Offer ",
-        "priceCurrency": "IRR",
-        "price": "0"
-    },
-    "model": "Pride Sedan petrol",
-    "category": "car",
-    "description": "مدل ۸۸ سفارشی،فرمان تمام هیدرولیک،رنگ سرمه ای متالیک (هفت رنگ)،کارکرد ۲۲۸،۰۰۰ کیلومتر،یه گلگیر رنگ،فنی کاملا سالم،موتور ۲ ماه تعمیر شده،جلوبندی،باتری،لاستیک،تسمه تایم،تسمه دینام همگی نو،بدون کوچکترین خرج، ",
-    "mileageFromOdometer": {
-        "value": 228000,
-        "unitCode": "KMT",
-        "@type": "QuantitativeValue"
-    },
-    "knownVehicleDamages": "some-paint",
-    "@type": "Car"
-}, {
-    "offers": {
-        "@type": "Offer ",
-        "priceCurrency": "IRR",
-        "price": "390000000.0"
-    },
-    "@type": "Product",
-    "category": "mobile-phones",
-    "@context": "https://schema.org",
-    "url": "https://divar.ir/v/gY6JDdOh",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392201/gY6JDdOh.jpg",
-    "description": "گوشی سامسونگ s22 ultra 256 GB رم 12\nمدت استفاده 20 روز\nکاملا سالم با گارانتی اصلی شرکت هماهنگ\nهمراه کیف هوشمند به مبلغ 1.900.000تومان\nشارژر به همراه کابل دو متری فابریک و اصل به مبلغ 1.200.000تومان\nدارای بیمه 4 ماهه ال سی دی\nقیمت کاملا مقطوع و تخفیف ندارد",
-    "name": "سامسونگ با حافظهٔ ۲۵۶ گیگابایت"
-}, {
-    "category": "building-equipment",
-    "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392203/gY99RJIF.jpg",
-    "url": "https://divar.ir/v/gY99RJIF",
-    "description": "باسلام حفاظ درب اپارتمان زیبا ومحکم وشکیل قابل تغییر به هرسایز باحمل ونصب رایگان ونصف قیمت بازار متناسب بابودجه شما ************بادوجاقفل اویز دردونوع ساده وفرفورژه درمدت زمان 2ساعت لطفا جهت سفارش 1روز جلوتر هماهنگ کنید باتشکر",
-    "name": "حفاظ درب اپارتمان",
-    "offers": {
-        "@type": "Offer ",
-        "priceCurrency": "IRR",
-        "price": "12000000.0"
-    },
-    "@type": "Product"
-}, {
-    "@context": "https://schema.org",
-    "url": "https://divar.ir/v/gY9FEdtU",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392203/gY9FEdtU.jpg",
-    "description": "ضبط صوت\nقیمت توافقی",
-    "name": "ضبط صوت",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055259/gYFqfCQM.jpg",
+    "url": "https://divar.ir/v/gYFqfCQM",
+    "description": "گروه مهندسین مشاور ویرا در راستای تکمیل کادر اداری خود اقدام به استخدام تعدادی  منشی شیفت عصر نموده است.\nمتقاضیان محترم رزومه ی خود را واتساپ نمایند \nیا  جهت هماهنگی تماس بگیرند.\nدفتر کار دارای فضایی شیک و مدرن با محیطی آرام و بدون حاشیه واقع در بر اصلی جردن \nنزدیک به ایستگاه مترو  میرداماد میباشد.\nشرایط متقاضیان \n_خانم های سن ۲۵ تا ۴۰ سال\n_مسلط به ورود تایپ و اکسل\n_با ظاهر آراسته و متین \n_نظم در ورود و خروج",
+    "name": "استخدام منشی خانم شیفت عصر",
     "offers": {
         "@type": "Offer ",
         "priceCurrency": "IRR",
         "price": "0"
     },
     "@type": "Product",
-    "category": "collecting"
+    "category": "administrative-jobs"
 }, {
-    "@type": "Product",
-    "category": "furniture",
+    "category": "video-audio-device",
     "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392200/QY5MPdmH.jpg",
-    "url": "https://divar.ir/v/QY5MPdmH",
-    "description": "دارای ضمانت \nکلاف چوب روسی \nکف کار اسفنج ب سفارش مشتری فوم سرد هم کار میشه \nدر هر اندازه ای و رنگ های متنوع \nادرس خیابان سراج کوچه عبدی پلاک ۱۶لوکیشن هم تو اگهی هست",
-    "name": "مبل ال مارال",
-    "offers": {
-        "@type": "Offer ",
-        "priceCurrency": "IRR",
-        "price": "26500000.0"
-    }
-}, {
-    "category": "beauty-services",
-    "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392200/gYZxGU_J.jpg",
-    "url": "https://divar.ir/v/gYZxGU_J",
-    "description": "نبردشمالی داودابادی غربی _انواع میکاپ و شینیون ساده باهم از 230  تومان تا 300 تومان براساس مدل انتخابی میکاپ وشینیون های ویژه از300 تومان تا 500 تومان انواع خدمات کاشت پودر: کاشت ناخن هلویی کوتاه 100 تومان بلند130 تومان_لاک ژل 40 تومان تا 70تومان ودیزاین های انتخابی هرناخن 5 تومان_  ترمیم ناخن کوتاه 80 تومان  با لاکژل ترمیم _ناخن  بلند با لاکژل 100 تا 120  تومان براساس قدناخن  با لاک ژل _لنز ناخن وطراحی دانه ای 5 تومان_مانیکور وژلیش ناخن طبیعی 70 تومان ژلیش ناخن های پا 60 تومان _انواع دم اسبی های ساده ومدل دار با بافت های ژورنالی از100 تومان تا 150 تومان _انواع فر موی کوتاه  60                     تومان تا 180  تومان نگ _انواع براشینگ مجلسی موی کوتاه 60  تومان  بلند تر تا 100  _تومان _وکس وابرو 50 تومان_اصلاح ابرو35 تومان _کوتاهی از 30 تومان تا 60 تومان _",
-    "name": "جشنواره خدمات کاشت ناخن میکاپ شینیون بافت کوتاهی",
-    "offers": {
-        "priceCurrency": "IRR",
-        "price": "0",
-        "@type": "Offer "
-    },
-    "@type": "Product"
-}, {
-    "description": "ماشین سالم و سلامت در حد صفر شیشه عقب برقی دوربین دنده عقب سنسور دنده عقب شیشه دودی روکش صندلی کفپایی سه بعدی تمام سرویس ها انجام شده بازدید=خرید فقط مصرف کننده",
-    "knownVehicleDamages": "intact",
-    "mileageFromOdometer": {
-        "value": 9000,
-        "unitCode": "KMT",
-        "@type": "QuantitativeValue"
-    },
-    "@type": "Car",
-    "vehicleTransmission": "manual",
-    "color": "سفید",
-    "brand": {
-        "name": "Tiba",
-        "@type": "Brand"
-    },
-    "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392199/gY7deOYr.jpg",
-    "url": "https://divar.ir/v/gY7deOYr",
-    "name": "تیبا صندوق‌دار EX، مدل ۱۴۰۰",
-    "offers": {
-        "priceCurrency": "IRR",
-        "price": "1870000000.0",
-        "@type": "Offer "
-    },
-    "productionDate": 1400,
-    "model": "Tiba Sedan EX",
-    "category": "car"
-}, {
-    "offers": {
-        "priceCurrency": "IRR",
-        "price": "8000000.0",
-        "@type": "Offer "
-    },
-    "@type": "Product",
-    "category": "tv-stand",
-    "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392199/gY9FkgBQ.jpg",
-    "url": "https://divar.ir/v/gY9FkgBQ",
-    "description": "جنس هایگلاس درحد نو اندازه 120",
-    "name": "میز تلوزیون هایگلاس در حدنو"
-}, {
-    "description": "☆توجه☆      ☆توجه☆\n!!!ارزان تر از همه جا!!!\nجدید ترین و بروز ترین مدل ها با بالا ترین کیفیت ،\nتمامی محصولات دارای ۵ سال ضمانت،\nامکان بازدید حضوری همه روزه و خرید غیر حضوری درب منزل\nکمد کشو دار موجود است .\nامنیت را با ما تجربه کنید.",
-    "name": "تخت خواب تک نفره ویدا",
+    "url": "https://divar.ir/v/AY8046W_",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055259/AY8046W_.jpg",
+    "description": "میکروفن GA-868 (با نام قدیم BM868) یکی از زیباترین مدل های موجود در محصولات ما می باشد (رنگ سفید،نقره ای با کلاهک نقره ای) .این میکروفون نسبت به مدل قبلی bm800 دارای حجم صدای بالاتری می‌باشد و ارتقا یافته مدل قبلی می‌باشد.\nاین میکروفون قابلیت اتصال به کارت صوتی V8S یا V8 و دستگاه فانتوم پاور  (و حتی کارت صوتی های حرفه ای موجود در بازار) را دارد و با این کارت صوتی کیفیت بسیار عالی به شما ارائه میکند.\n×××\nاین محصول مناسب برای تولید محتوای صوتی و تصویری ، ویلاگری ، تولید پادکست ، ایجاد استدیوی خانگی و تمرین خوانندگی و گویندگی برای آماتور ها می باشد.\n×××\nمتعلقات:\n*میکروفن BM868\n*شاک مانت\n*پاپ فیلتر فلزی\n*کابل XLR\n***\nامکان استفاده از این میکروفن در کنار کارت صوتی های لایو سری V8, V8S, X8 و غیره و همچنین کارت صوتی های مخصوص وکال با فانتوم پاور داخلی وجود دارد.\n××××\nیکی از موارد مصرف این محصول استفاده در کنار سازهای زهی می باشد که صدایی واقعی و با کیفیت برای شما مهیا میسازد.\n××××\nامکان ارسال ویدئوی معرفی در  وجود دارد.",
+    "name": "میکروفون استدیو GA-868 برند GEM Audio",
     "offers": {
         "@type": "Offer ",
         "priceCurrency": "IRR",
         "price": "16000000.0"
     },
-    "@type": "Product",
-    "category": "bed-service",
-    "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392198/AYSJWxHV.jpg",
-    "url": "https://divar.ir/v/AYSJWxHV"
+    "@type": "Product"
 }, {
-    "description": "گوشی نو نو می باشد.بدون کوچکترین خط و خش.سلامت باطری ۹۰ درصد",
-    "name": "اپل iPhone 12 Pro Max با حافظهٔ ۱۲۸ گیگابایت",
+    "description": "میکروفن استدیویی BM-900 از نوع کاندانسر  (ابعاد این میکروفن از Bm800 بزرگتر است)\nمتعلقات همراه :\n*دارای کابل XLR به جک 3.5 میلی متری \n*شاک مانت یا لرزش گیر میکروفن\nنکته : صرفا رنگ *طلایی و *مشکی طلایی (طبق عکس ها) موجود می باشد.\n*****\nمناسب جهت ضبط صدای وکال جهت پادکست ،گیم ، استریم و تولید محتوای آموزشی و ...\n*****\nنکته مهم :\nجهت استفاده توصیه میشود از کارت صداهای دارای فانتوم پاور 48 ولتی برای بهره برداری بهتر از این محصول استفاده نمایید.\nالبته از کارت صداهای Live مثل X8 یا V8 هم در کنار دستگاه فانتوم پاور 48 ولتی مجزا هم میتوان برای گرفتن جواب بهتر در کنار این محصول استفاده کرد.\nتمام کالای اعلام شده در فروشگاه ما موجود می باشد و امکان خرید حضوری و هم غیر حضوری موجود است.",
+    "name": "بسته میکروفن BM-900",
     "offers": {
         "@type": "Offer ",
         "priceCurrency": "IRR",
-        "price": "350000000.0"
+        "price": "10000000.0"
     },
     "@type": "Product",
-    "category": "mobile-phones",
+    "category": "video-audio-device",
     "@context": "https://schema.org",
-    "url": "https://divar.ir/v/gY9F0BZK",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392198/gY9F0BZK.jpg"
+    "url": "https://divar.ir/v/AYrFS9Nt",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055259/AYrFS9Nt.jpg"
 }, {
-    "@type": "Product",
-    "category": "container-organizers",
+    "category": "car",
+    "description": "بدون رنگ\nفنی در حد صفر\nمعاینه فنی یکسال\nروکش صندلی",
+    "mileageFromOdometer": {
+        "unitCode": "KMT",
+        "@type": "QuantitativeValue",
+        "value": 60000
+    },
+    "knownVehicleDamages": "intact",
+    "@type": "Car",
+    "vehicleTransmission": "manual",
+    "brand": {
+        "@type": "Brand",
+        "name": "MVM"
+    },
+    "color": "قرمز",
     "@context": "https://schema.org",
-    "url": "https://divar.ir/v/gY99TyrP",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392199/gY99TyrP.jpg",
-    "description": "سینک 200 تومن\n کابینت دودر دیواری 300 تومن\nکابینت کوچک بهمراه آبچکان 300 تومن \nسنگ کابینت 300 تومن",
-    "name": "سینک وکابینت فلزی آشپزخانه",
-    "offers": {
-        "@type": "Offer ",
-        "priceCurrency": "IRR",
-        "price": "3000000.0"
-    }
-}, {
-    "category": "rent-apartment",
-    "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392197/gY95DOWF.jpg",
-    "url": "https://divar.ir/v/gY95DOWF",
-    "description": "آپارتمان واقع در سر کوچه عراقی . رو به روی خیابان شبیر  میباشد \n\nحمام و دستشویی جدا\nاتاق بزرگ\nپذیرایی مربع \n\nفاقد پارکینگ و آسانسور",
-    "name": "آپارتمان ۵۰ متری . تک خواب . نورگیر",
+    "url": "https://divar.ir/v/gY8Ndc6w",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055258/gY8Ndc6w.jpg",
+    "name": "ام‌وی‌ام 110 دنده‌ای ۴ سیلندر، مدل ۱۳۹۳",
     "offers": {
         "@type": "Offer ",
         "priceCurrency": "IRR",
         "price": "0"
     },
-    "@type": "Product"
+    "productionDate": 1393,
+    "model": "MVM 110 manual-4 cylinder"
 }, {
-    "description": "برند پولو (POLO)",
-    "name": "کفش رسمی سایز ۴۱/۵  ۸/۵US",
+    "description": "سینی زیر موتور برای ساینا نونو استفاده نشده برای ماشین گرفتیم که دیگه استفاده نشد تخفیف نداره قیمت مقطوع درخواست تخفیف نکنید",
+    "name": "سینی آهنی زیر موتور ساینا",
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "IRR",
+        "price": "5000000.0"
+    },
+    "@type": "Product",
+    "category": "car-accessories",
+    "@context": "https://schema.org",
+    "url": "https://divar.ir/v/gYH-lGS3",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055260/gYH-lGS3.jpg"
+}, {
+    "@context": "https://schema.org",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055258/gYH-1GLI.jpg",
+    "url": "https://divar.ir/v/gYH-1GLI",
+    "description": "به هیچ عنوان استفاده نشده و به دلیل سایز نبودن فروخته می شود.\nقیمت اصلى این کار  ٦٠٠ تومن هست ولى بنده ٤٥٠ گذاشتم\nیا على مدد",
+    "name": "پیراهن شلوار ٥١١ رنگ سبز",
     "offers": {
         "@type": "Offer ",
         "priceCurrency": "IRR",
-        "price": "20000000.0"
+        "price": "4500000.0"
     },
     "@type": "Product",
-    "category": "bag-shoes-belt",
-    "@context": "https://schema.org",
-    "url": "https://divar.ir/v/gY9F0UCr",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392197/gY9F0UCr.jpg"
+    "category": "clothing"
 }, {
-    "description": "〽️با عرض سلام و ارزوی بهترینها〽️\n\n\n\n⚡87متر/سالن نورگیر و مستطیل\n\n⚡دوخواب\n\n⚡چهارواحدی\n\n⚡بدون دیوار مشترک \n\n⚡انباری،تراس،پارکینگ\n\n⚡کف سرام،رنگ شده،درب ضد سرقت\n\n⚡غرق در نور،خوش نقشه\n\n\n‼️متفاوت تر از همیشه زندگی کنید \n‼️متفاوت تر از همیشه سرمایه گذاری کنید \n‼️با ما خرید را به تجربه ای خوب تبدیل کنید \n‼️مشاور خرید و فروش شما: آقای احسانی \n\n۰۹۱۲۳۸۰۳۰۴۶",
-    "floorSize": {
+    "url": "https://divar.ir/v/gYG--Cl1",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055309/gYG--Cl1.jpg",
+    "description": "مبلمان زیبا و نو",
+    "name": "مبل راحتی ال  ال آلآ",
+    "offers": {
+        "@type": "Offer ",
+        "priceCurrency": "IRR",
+        "price": "50000000.0"
+    },
+    "@type": "Product",
+    "category": "furniture",
+    "@context": "https://schema.org"
+}, {
+    "description": "ان اس مدل 94\n40تا کار کرده \nخطو خش جزعی\nبیمه یک سال \nبدون هیچ خرجی \nموتور سالم",
+    "mileageFromOdometer": {
         "@type": "QuantitativeValue",
-        "value": 87,
-        "unitCode": "MTK"
+        "value": 40,
+        "unitCode": "KMT"
     },
-    "name": "پردیس فاز۱۱ طبقه ۹جنوبی وام عرصه تسویه فول حرفه ای",
-    "geo": {
-        "address": "تهران پردیس",
-        "@type": "GeoCoordinates",
-        "longitude": 51.79579544067383,
-        "latitude": 35.75326156616211
+    "@type": "Motorcycle",
+    "brand": {
+        "name": "nsu",
+        "@type": "Brand"
     },
-    "@type": "Apartment",
-    "accommodationCategory": "آپارتمان",
     "@context": "https://schema.org",
-    "numberOfRooms": "دو",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392195/gYVdGT3X.jpg",
-    "url": "https://divar.ir/v/gYVdGT3X"
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055260/gYH6Vw80.jpg",
+    "url": "https://divar.ir/v/gYH6Vw80",
+    "name": "ان اس مدل94",
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "IRR",
+        "price": "630000000.0"
+    },
+    "model": "nsu",
+    "productionDate": 1394,
+    "category": "motorcycles"
 }, {
+    "category": "furniture",
+    "@context": "https://schema.org",
+    "url": "https://divar.ir/v/gYGmu1_H",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055293/gYGmu1_H.jpg",
+    "description": "مبلمان زیبا و نو",
+    "name": "مبل راحتی ال مدل",
     "offers": {
         "priceCurrency": "IRR",
-        "price": "2000000.0",
+        "price": "130000000.0",
         "@type": "Offer "
     },
-    "@type": "Product",
-    "category": "lumbar-pillow",
-    "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392194/gY9Bk_nq.jpg",
-    "url": "https://divar.ir/v/gY9Bk_nq",
-    "description": "باسلام ۲عدد پشتی نو وسالم تمیز",
-    "name": "پشتی"
+    "@type": "Product"
 }, {
-    "numberOfRooms": "دو",
-    "url": "https://divar.ir/v/gY0RNVXh",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392191/gY0RNVXh.jpg",
-    "description": "(( بنام خدا ))\n\nاعتمادشما اعتبارماست \n             ✔کارشناس فروش:محمودی\n\n\n✅مسکن آرشا باقابلیت فایلینگ بسیار قوی در منطقه \n✅دارای سندتک برگ \n✅دارای کدرهگیری \n✅صفرتاصد وام آپارتمان بافروشنده \n✅رهن بعهده املاک \n\n\n\n❌نقدینگی +رهن +وام\n❌تنوع بالای فایل ها =صرفه جویی درزمان شما\n❌اخذوام ۱۰۰الی ۳۲۰م \n\n\n\nمتراژ:۹۵\nطبقه:۳\nاتاق:۲\nپارکینگ مشاع ۱۰۰درصد \nتعدادواحد:۹\nکف سرامیک \nنماسنگ\nکابینت های گلاس \nبدونی پرتی\nگازصفه ای، هودلمسی \nکمددیواری \nبالکن، انباری \nخوش نقشه\nدسرسی عالی \nپوستر \nکناف کاری \nنورپردازی\n\n\n                  آدرس مسکن بزرگ آرشا:\n\n                          اندیشه فازیک بین ارغوان ۱۴و۱۵ \n\n☎️۰۹۰۱۲۵۸۰۹۲۶\nمحمودی",
-    "name": "۹۵متری/فول بازسازی/سندتک برگ/اندیشه فازیک",
-    "floorSize": {
-        "@type": "QuantitativeValue",
-        "value": 95,
-        "unitCode": "MTK"
+    "offers": {
+        "@type": "Offer ",
+        "priceCurrency": "IRR",
+        "price": "1490000.0"
     },
+    "@type": "Product",
+    "category": "educational-book",
+    "@context": "https://schema.org",
+    "url": "https://divar.ir/v/gYH-FhTw",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055259/gYH-FhTw.jpg",
+    "description": "دیکشنری آکسفورد ادونس ویرایش هشتم\n Oxford Advanced Learner's Dictionary 8th\nهمراه با CD\nحدود 2000 صفحه\n149 هزار تومان",
+    "name": "دیکشنری آکسفورد Oxford Advanced 8th"
+}, {
+    "@type": "Product",
+    "category": "technical-jobs",
+    "@context": "https://schema.org",
+    "url": "https://divar.ir/v/gYF6bBrF",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055256/gYF6bBrF.jpg",
+    "description": "همکار جهت نصب دوربین مداربسته و آموزش نصب هین کار\nزیر ۲۰سال \nساعت کاری ۸تا ۷",
+    "name": "همکار جهت نصب دوربین مداربسته",
+    "offers": {
+        "@type": "Offer ",
+        "priceCurrency": "IRR",
+        "price": "0"
+    }
+}, {
+    "numberOfRooms": "سه",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055255/gY_tmrvn.jpg",
+    "url": "https://divar.ir/v/gY_tmrvn",
+    "description": "۱۵۰ متر۳خ\n۵طبقه ۸ واحد\nبدون دیوار مشترک\nسونا استخر جکوزی فعال\nبهترین گذر صرافهای شمالی\nفروشنده واقعی\nزنگنه",
+    "floorSize": {
+        "unitCode": "MTK",
+        "@type": "QuantitativeValue",
+        "value": 150
+    },
+    "name": "سعادت آباد ۱۵۰ متر صرافهای شمالی",
     "geo": {
-        "address": "تهران اندیشه",
+        "address": "تهران سعادت‌آباد",
         "@type": "GeoCoordinates",
-        "longitude": 51.27768325805664,
-        "latitude": 35.74707794189453
+        "longitude": 51.3781852722168,
+        "latitude": 35.783485412597656
     },
     "@type": "Apartment",
     "accommodationCategory": "آپارتمان",
     "@context": "https://schema.org"
 }, {
     "offers": {
-        "@type": "Offer ",
         "priceCurrency": "IRR",
-        "price": "350000.0"
+        "price": "0",
+        "@type": "Offer "
     },
     "@type": "Product",
-    "category": "home-catering",
+    "category": "pre-sell-home",
     "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392190/gY9F0i_V.jpg",
-    "url": "https://divar.ir/v/gY9F0i_V",
-    "description": "ارسال به کل کشور تک فروشی داریم ابعاد ۲۰ در۱۲ ابعاد بزرگتر موجوده قیمتش بالاتره کارهای چوبی موجوده",
-    "name": "سینی چوبی عمده"
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055255/gYAC_FRk.jpg",
+    "url": "https://divar.ir/v/gYAC_FRk",
+    "description": "حوالی کاج\n6 طبقه 2واحدی\nبدون دیوار مشترک\nپنجرهای قدی کف تا سقف\nارتفاع سقف ۳/۳۰ متر\nمتریال روز دنیا\nسازنده به نام منطقه\nورودی از لابی مدرن و مجلل و شکیل\nپلان مهندسی سالن وسیع وخوابها استاندارد\n3 خواب / 1 مستر\n2 پارکینگ سندی ( پارکینگ اضافه موجود است)\nاستخر سونا جکوزی جذاب با نور طبیعی\nنشیمن مجزا داخل استخر\nحمام ترکی\nسالن  اجتماعات ۳۰۰ متری با تهویه عالی\nسالن ورزشی\nتحویل ۶ماهه\nزیر قیمت منطقه\nزنگنه مشاور شما\nاملاک آلما vip",
+    "name": "سعادت آباد کاج ۲۱۰ متر تحویل ۶ماهه"
 }, {
-    "category": "transport-logistic-services",
+    "@type": "Apartment",
+    "accommodationCategory": "آپارتمان",
     "@context": "https://schema.org",
-    "url": "https://divar.ir/v/QYsxvgPp",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392186/QYsxvgPp.jpg",
-    "description": "اعزام اتوبوس به تمام نقاط تهران\nاتوبوسهای اسکانیا مدل بالا\n         جهت انواع مراسم\n          بهشت زهرا(س)\n       مدارس واورگانهای دولتی\n       تخفیف ویژه برای مدارس\n    سیستم گرمایش وسرمایشی مرتب\n    رانندگان مجرب واشنا به انواع مراسم\n       قیمت مناسب وحضور به موقع\n                 فاکتور رسمی \n                بصورت 24ساعته",
-    "name": "اتوبوس واحد گشت اتوبوس دربستی کرایه اتوبوس",
+    "numberOfRooms": "سه",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055255/gY6ZTyh1.jpg",
+    "url": "https://divar.ir/v/gY6ZTyh1",
+    "description": "١٥٢متر ٣خ\nدو پارکینگ سندى\nدو لاین آسانسور\nلابى مجلل مبله \nسونا استخر جکوزى\nبدون دیوار مشترک\nسسیتم سرمایش وگرمایش چیلر\nپنجره هاى قدى\nارتفاع سقف ٣/٢٠\nمتریال برند\nفرعى عریض\nسالن اجتماعات\nفروشنده واقعى\nزنگنه مشاور شما",
+    "floorSize": {
+        "unitCode": "MTK",
+        "@type": "QuantitativeValue",
+        "value": 152
+    },
+    "name": "سعادت آباد ١٥٢متر صرافهاى شمالى ٢پارکینگ",
+    "geo": {
+        "address": "تهران سعادت‌آباد",
+        "@type": "GeoCoordinates",
+        "longitude": 51.3781852722168,
+        "latitude": 35.783485412597656
+    }
+}, {
+    "geo": {
+        "address": "تهران سعادت‌آباد",
+        "@type": "GeoCoordinates",
+        "longitude": 51.3781852722168,
+        "latitude": 35.783485412597656
+    },
+    "@type": "Apartment",
+    "accommodationCategory": "آپارتمان",
+    "@context": "https://schema.org",
+    "numberOfRooms": "سه",
+    "url": "https://divar.ir/v/gY3tZ0uq",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055255/gY3tZ0uq.jpg",
+    "description": "۱۵۰ متر صرافهای شمالی \nطبقه دوم\nپنج طبقه دو واحدی\nمتریال برند\nسونا استخر جکوزی\nپلان رو به آفتاب \nلوکیشن فرعی دنج وبن بست\nقیمت فقط متری ۸۵ میلیون",
+    "floorSize": {
+        "@type": "QuantitativeValue",
+        "value": 150,
+        "unitCode": "MTK"
+    },
+    "name": "سعادت آباد ۱۵۰ متر صرافهای شمالی"
+}, {
+    "description": "١٦٠متر ٣خ\nطبقه ٤\nویو شمال وجنوب\n٢پارکینگ سندى\n٢٠٠متر لابى مبله\nسالن اجتماعات\nروف گاردن\nسونا اساخر جکوزى\nمتریال برند\nفروشندواقعى",
+    "floorSize": {
+        "@type": "QuantitativeValue",
+        "value": 160,
+        "unitCode": "MTK"
+    },
+    "name": "سعادت آباد ۱۶۰  متر",
+    "geo": {
+        "address": "تهران سعادت‌آباد",
+        "@type": "GeoCoordinates",
+        "longitude": 51.3781852722168,
+        "latitude": 35.783485412597656
+    },
+    "@type": "Apartment",
+    "accommodationCategory": "آپارتمان",
+    "@context": "https://schema.org",
+    "numberOfRooms": "سه",
+    "url": "https://divar.ir/v/gY-Rjcqr",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055255/gY-Rjcqr.jpg"
+}, {
+    "numberOfRooms": "سه",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055255/gY7dp6zB.jpg",
+    "url": "https://divar.ir/v/gY7dp6zB",
+    "description": "١٩٠متر ٣خ\nتک واحدی\nسالن فلت ۱۰۰متری\nغرق در نور\nطبقه چهارم\nنور نقشه عالى\nلوکیشن تاپ منطقه\nبازسازى شده \n۲پارکینگ سندی\nزنگنه مشاور شما",
+    "floorSize": {
+        "unitCode": "MTK",
+        "@type": "QuantitativeValue",
+        "value": 190
+    },
+    "name": "سعادت آباد١٩٠متر تک واحدى",
+    "geo": {
+        "address": "تهران سعادت‌آباد",
+        "@type": "GeoCoordinates",
+        "longitude": 51.3781852722168,
+        "latitude": 35.783485412597656
+    },
+    "@type": "Apartment",
+    "accommodationCategory": "آپارتمان",
+    "@context": "https://schema.org"
+}, {
+    "category": "rent-apartment",
+    "@context": "https://schema.org",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055258/gYH-lEo8.jpg",
+    "url": "https://divar.ir/v/gYH-lEo8",
+    "description": "آپارتمان ۵۲ متری \nدوخوابه \nخوش نقشه \nکم جمعیت \nنورگیر عالی \nکمد دیواری بزرگ \nتراس \nتخلیه \nآگهی شخصی می‌باشد لطفا املاک تماس نگیرید .\nشماره تماس ۰۹۰۱۷۹۳۷۵۸۰ دانش",
+    "name": "آپارتمان ۵۲ متری دو خوابه محبوب مجاز شرقی",
     "offers": {
         "@type": "Offer ",
         "priceCurrency": "IRR",
@@ -354,16 +293,88 @@
     },
     "@type": "Product"
 }, {
-    "description": "سالم و بدون هیچ خط و خش و نقطه ای ، حافظه 256 گیگ ،  همه وسایل جانبی هم خریدم ( هندفری ، تبدیل شارژر، محافظ لنز و قاب ویوامادرید) که حدود 2 تومن هزینه اش کردم و  فاکتورش هم موجوده \nمعاوضه نمیکنم فقط خریدار تماس بگیره",
-    "name": "اپل iPhone 13 Pro Max طلایی",
+    "category": "antique-objects",
+    "@context": "https://schema.org",
+    "url": "https://divar.ir/v/gYH-FnxH",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055260/gYH-FnxH.jpg",
+    "description": "چاقو سالم  نو و استفاده نشده\nهمراه با جعبه \nمناسب هدیه\nارزش به مراتب بیشتر نسبت به قیمت فروش",
+    "name": "چاقو زیبا طرح ازبک",
     "offers": {
         "priceCurrency": "IRR",
-        "price": "465000000.0",
+        "price": "2000000.0",
+        "@type": "Offer "
+    },
+    "@type": "Product"
+}, {
+    "@context": "https://schema.org",
+    "numberOfRooms": "دو",
+    "url": "https://divar.ir/v/gYAuYU3a",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055254/gYAuYU3a.jpg",
+    "description": "✅️۹۰متر\n\n✅️۲خواب\n\n✅️فول امکانات\n\n✅️بالکن قابل چیدمان\n\n✅️بهترین طبقه\n\n✅️نور گیر\n\n✅️سالن پرده خور\n\n✅️لوکیشن اردستانی\n\n✅️وام بانکی\n\n            مشاور معتمد شما  خانم  ارجمند\n\nشماره تماس:\n۰۹۲۱۲۹۲۰۶۵۶     ☎️",
+    "floorSize": {
+        "@type": "QuantitativeValue",
+        "value": 90,
+        "unitCode": "MTK"
+    },
+    "name": "۹۰متر/ نوساز +وام دار/ کوهک/ شهرک راه آهن",
+    "geo": {
+        "latitude": 35.738773345947266,
+        "address": "تهران دریاچه شهدای خلیج فارس",
+        "@type": "GeoCoordinates",
+        "longitude": 51.20661544799805
+    },
+    "@type": "Apartment",
+    "accommodationCategory": "آپارتمان"
+}, {
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055256/gYH-VqLm.jpg",
+    "url": "https://divar.ir/v/gYH-VqLm",
+    "description": "کیف ها در حد نو کم استفاده شده سالم و تمیز هر کدام ۱۰۰ تومن",
+    "name": "تعدادی کیف در حد نو",
+    "offers": {
+        "priceCurrency": "IRR",
+        "price": "1000000.0",
         "@type": "Offer "
     },
     "@type": "Product",
-    "category": "mobile-phones",
+    "category": "bag-shoes-belt",
+    "@context": "https://schema.org"
+}, {
+    "offers": {
+        "@type": "Offer ",
+        "priceCurrency": "IRR",
+        "price": "23000000.0"
+    },
+    "@type": "Product",
+    "category": "tablet",
     "@context": "https://schema.org",
-    "image": "https://s101.divarcdn.com/static/thumbnails/1652392185/gY9Bk8QP.jpg",
-    "url": "https://divar.ir/v/gY9Bk8QP"
+    "url": "https://divar.ir/v/gYH-lk2n",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055256/gYH-lk2n.jpg",
+    "description": "درحدنو \nبه همراه جعبه\nو شارژر فابریک",
+    "name": "تبلت سامسونگ note10.1"
+}, {
+    "@context": "https://schema.org",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055255/gYH-VFO0.jpg",
+    "url": "https://divar.ir/v/gYH-VFO0",
+    "description": "باسلام خدمت دوستان عزیزدوجفت لول فنرپراید جلووعقب لول فنرجلوبرش خورده اسپرتی ولول عقب یه دوربریده شده هرکی خواست درخدمتم باتشکر",
+    "name": "دوجفت لول فنرپراید جلووعقب",
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "IRR",
+        "price": "3500000.0"
+    },
+    "@type": "Product",
+    "category": "car-accessories"
+}, {
+    "category": "car-accessories",
+    "@context": "https://schema.org",
+    "url": "https://divar.ir/v/gYH-lHnj",
+    "image": "https://s101.divarcdn.com/static/thumbnails/1653055255/gYH-lHnj.jpg",
+    "description": "پایونیر سالم در حد دمو ۷رنگ عالی",
+    "name": "ضبط پایونیر 3650uدمو ۷رنگ",
+    "offers": {
+        "priceCurrency": "IRR",
+        "price": "19500000.0",
+        "@type": "Offer"
+    },
+    "@type": "Product"
 }]
