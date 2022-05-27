@@ -368,3 +368,7 @@ input:checked+.slider:before {
     justify-content: space-between;
     width: 100%;
 }
+
+.checkbox-block span:first-child {
+    font-size: 0.8rem !important;
+}
